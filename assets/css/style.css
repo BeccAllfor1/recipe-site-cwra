@@ -54,6 +54,12 @@ footer .copyright {
     text-align: center;
     padding : 10px 5%;
 }
+.intro-images {
+    text-align: center;
+}
+.intro img {
+    max-width: 90%;
+}
 /*cake*/
 .cake {
     text-align: center;

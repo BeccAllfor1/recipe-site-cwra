@@ -6,6 +6,12 @@
     background-color: #51291E;
     color: #FFECD1;
 }
-.navbar .nav-item {
+.navbar a {
+    color: #FFECD1;
+}
+.navbar-toggler {
+   background-color: #51291E; 
+}
+.navbar-toggler-icon {
     color: #FFECD1;
 }

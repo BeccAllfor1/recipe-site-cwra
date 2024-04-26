@@ -7,10 +7,12 @@
 /*colors*/
 .intro {
     background-color: #902923;
+    width: 100%;
 }
 .navbar {
     background-color: #51291E;
     color: #FFECD1;
+    width: 100%;
 }
 .navbar a {
     color: #FFECD1;
@@ -25,9 +27,13 @@
     background-color: #902923;
     min-height: 600px;    
 }
+#hero {
+    width: 100%;
+}
 /*footer*/
 footer {
     background-color: #51291E;
+    width: 100%;
 }
 footer ul {
     display: flex;
@@ -56,6 +62,7 @@ footer .copyright {
 }
 .intro-images {
     text-align: center;
+    width: 100%;
 }
 .intro img {
     max-width: 90%;

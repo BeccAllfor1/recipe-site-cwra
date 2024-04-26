@@ -27,6 +27,11 @@
 .navbar-toggler-icon {
     color: #FFECD1;
 }
+
+.active a {
+    color: #3F784C;
+   font-weight: 500;
+}
 .cake {
     background-color: #902923;
     min-height: 600px;    

@@ -55,6 +55,9 @@ footer ul {
 footer i {
     color: #FFECD1;
 }
+footer i:hover {
+    color: #3F784C;
+}
 footer .copyright {
     color: #FFECD1;
     margin-top: 10px;

@@ -80,9 +80,11 @@ footer .copyright {
     padding-left: 20px;
     padding-right: 20px;
 }
-.rounded-circle {
+.rounded-circle
+ {
     max-width: 200px;
-    max-height: 200px;
+    max-height: 200px; 
+    padding: 20px;
 }
 .cake .btn {
     background-color:#C17817 ;
@@ -117,4 +119,7 @@ footer .copyright {
 .recipe-list-ordered {
     list-style-type: lower-roman;
 
+}
+.circle {
+    padding: 20px;
 }

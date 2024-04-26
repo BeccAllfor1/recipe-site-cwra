@@ -1,3 +1,12 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
 .intro {
     min-height: 700px;
     background-color: #902923;
@@ -16,6 +25,7 @@
     color: #FFECD1;
 }
 
+
 footer {
     background-color: #51291E;
 }
@@ -31,4 +41,30 @@ footer i {
 footer .copyright {
     color: #FFECD1;
     margin-top: 10px;
+}
+
+.cheesecakes-image{
+    padding:0;
+}
+.lemon-ginger-cheesecake-image{
+   
+    border-radius: 50%;
+   
+    
+}
+.blueberry-cheesecake-image{
+   
+    border-radius: 50%;
+    
+}
+.Header-cheesecake{
+    padding-bottom: 15px;
+    padding-right: 20px;
+}
+.lemon-ginger-bluberry-section{
+    padding-bottom: 15px;
+}
+.recipe-list-ordered {
+    list-style-type: lower-roman;
+
 }

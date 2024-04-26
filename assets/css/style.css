@@ -48,6 +48,8 @@ footer .copyright {
 .lemon-ginger-cheesecake-image{
    
     border-radius: 50%;
+   
+    
 }
 .blueberry-cheesecake-image{
    
@@ -61,7 +63,7 @@ footer .copyright {
 .lemon-ginger-bluberry-section{
     padding-bottom: 15px;
 }
-ol {
+.recipe-list-ordered {
     list-style-type: lower-roman;
 
 }

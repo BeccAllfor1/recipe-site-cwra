@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 *{
     margin:0;
     padding:0;
     box-sizing: border-box;
 }
 /*colors*/
+
+
+
 .intro {
     background-color: #902923;
     width: 100%;
@@ -31,6 +35,8 @@
     width: 100%;
 }
 /*footer*/
+
+
 footer {
     background-color: #51291E;
     width: 100%;
@@ -84,5 +90,31 @@ footer .copyright {
 }
 .modal-content {
     background-color: #3F784C;
-    text-align: justify;
+    text-align: justify;}
+
+    /*cheesecake page*/
+.cheesecakes-image{
+    padding:0;
+}
+.lemon-ginger-cheesecake-image{
+   
+    border-radius: 50%;
+   
+    
+}
+.blueberry-cheesecake-image{
+   
+    border-radius: 50%;
+    
+}
+.Header-cheesecake{
+    padding-bottom: 15px;
+    padding-right: 20px;
+}
+.lemon-ginger-bluberry-section{
+    padding-bottom: 15px;
+}
+.recipe-list-ordered {
+    list-style-type: lower-roman;
+
 }

@@ -27,6 +27,14 @@
 .navbar-toggler-icon {
     color: #FFECD1;
 }
+.navbar .nav-link a:hover {
+color: #FFECD1 !important;
+background-color: rgba(63, 120, 76, 0.3) !important;
+}
+.navbar .nav-link {
+    width:100px
+}
+
 
 .active a {
     color: #3F784C;

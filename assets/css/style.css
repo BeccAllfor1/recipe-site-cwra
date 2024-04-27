@@ -27,12 +27,14 @@
 .navbar-toggler-icon {
     color: #FFECD1;
 }
-.navbar .nav-link a:hover {
-color: #FFECD1 !important;
-background-color: rgba(63, 120, 76, 0.3) !important;
+
+.hvr-sweep-to-bottom:before {
+    color: #FFECD1;
+background-color: rgba(63, 120, 76, 0.5);
 }
 .navbar .nav-link {
-    width:100px
+    width:112px;
+    text-align: center;
 }
 
 

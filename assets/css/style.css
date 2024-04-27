@@ -23,6 +23,7 @@
 }
 .navbar-toggler {
    background-color: #51291E; 
+   border: none;
 }
 .navbar-toggler-icon {
     color: #FFECD1;
